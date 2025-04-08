@@ -43,7 +43,7 @@ python main.py
 
 ---
 
-🗃️ Project Structure
+## 🗃️ Project Structure
 
 ```bash
 Assistant-Console-Bot/
@@ -54,7 +54,7 @@ Assistant-Console-Bot/
 
 ---
 
-✅ Requirements
+## ✅ Requirements
 Python 3.7 or newer
 
 OS: Windows / macOS / Linux
