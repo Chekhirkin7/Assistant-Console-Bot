@@ -21,7 +21,10 @@
 git clone https://github.com/your-username/Assistant-Console-Bot.git
 cd Assistant-Console-Bot
 python main.py
+```
 ⚠️ Python 3.7+ is required. No additional libraries are needed — everything is part of the standard Python library.
+
+---
 
 💡 Commands List
 Command	Description
@@ -34,14 +37,20 @@ add-birthday John 15.04.1990	Add a birthday for a contact
 show-birthday John	Show the birthday for the contact
 birthdays	Show upcoming birthdays in the next 7 days
 close or exit	Close the bot and save the data
+
+---
+
 🗃️ Project Structure
-bash
-Копіювати
-Редагувати
+
+```bash
 Assistant-Console-Bot/
 ├── main.py             # Main bot logic and code
 ├── addressbook.pkl     # Contact storage file (auto-created)
 └── README.md           # This file
+```
+
+---
+
 ✅ Requirements
 Python 3.7 or newer
 
