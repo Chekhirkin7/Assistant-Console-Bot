@@ -26,17 +26,20 @@ python main.py
 
 ---
 
-💡 Commands List
-Command	Description
-hello	Greet the assistant
-add John 0987654321	Add a contact with a name and phone number
-change John 0987654321 0931234567	Change an old phone number to a new one
-phone John	Show all phone numbers for the contact
-all	Display all saved contacts
-add-birthday John 15.04.1990	Add a birthday for a contact
-show-birthday John	Show the birthday for the contact
-birthdays	Show upcoming birthdays in the next 7 days
-close or exit	Close the bot and save the data
+## 💡 Commands List
+
+| Command                             | Description                                        |
+|-------------------------------------|----------------------------------------------------|
+| `hello`                             | Greet the assistant                               |
+| `add John 0987654321`               | Add a contact with a name and phone number        |
+| `change John 0987654321 0931234567` | Change an old phone number to a new one           |
+| `phone John`                        | Show all phone numbers for the contact            |
+| `all`                               | Display all saved contacts                        |
+| `add-birthday John 15.04.1990`      | Add a birthday for a contact                      |
+| `show-birthday John`                | Show the birthday for the contact                 |
+| `birthdays`                         | Show upcoming birthdays in the next 7 days       |
+| `close` or `exit`                   | Close the bot and save the data                   |
+
 
 ---
 
